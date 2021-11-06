@@ -1,0 +1,9 @@
+# Site settings
+title: 3 operações para recriação da paisagem
+author:
+  name: Tiago Gasperin
+  email: tiagogasperin84@gmail.com
+description: "3 operações"
+
+# Build settings
+remote_theme: jekyll/minima
